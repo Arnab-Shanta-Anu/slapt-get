@@ -9,7 +9,7 @@ EXCLUDE=^aaa_elflibs,^devs,^glibc-.*,^kernel-.*,^udev,.*-[0-9]+dl$,x86_64,i[3456
 # Base url to directory with a PACKAGES.TXT.
 # This can point to any release, ie: 9.0, 10.0, current, etc.
 #SOURCE=ftp://ftp.arm.slackware.com/slackwarearm/slackwarearm-current/:OFFICIAL
-SOURCE=ftp://ftp.arm.slackware.com/slackwarearm/slackwarearm-14.2/:OFFICIAL
+SOURCE=ftp://ftp.arm.slackware.com/slackwarearm/slackwarearm-14.1/:OFFICIAL
 #SOURCE=ftp://ftp.arm.slackware.com/slackwarearm/slackwarearm-14.1/:OFFICIAL
 #SOURCE=ftp://ftp.arm.slackware.com/slackwarearm/slackwarearm-14.0/:OFFICIAL
 
