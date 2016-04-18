@@ -11,4 +11,3 @@ libgpg-error
 cyrus-sasl
 openldap-client
 libassuan
-libssh2
